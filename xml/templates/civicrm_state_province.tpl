@@ -2387,7 +2387,7 @@ INSERT INTO civicrm_state_province (id, country_id, abbreviation, name) VALUES
 (3931, 1155, "RI", "Rivas"),
 (3932, 1155, "AN", "Atlantico Norte"),
 (3933, 1155, "AS", "Atlantico Sur"),
-(3934, 1152, "DR", "Drente"),
+(3934, 1152, "DR", "Drenthe"),
 (3935, 1152, "FL", "Flevoland"),
 (3936, 1152, "FR", "Friesland"),
 (3937, 1152, "GL", "Gelderland"),
